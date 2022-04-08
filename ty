@@ -1,6 +1,10 @@
 <!DOCTYPE html>
- 
-</style>
+<head>
+ <meta charset="UTF-8">
+    <title> LÊ QUANG BẢO </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 <h1 align="center">Hi 👋, I'm Trịnh Xuân Thảo</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <p align="center"><img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.6435-9/102619055_586449832290100_7583462569962751566_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_ohc=1FqSKGOdtXcAX_0CjuK&tn=mO36tYaXY1lbR8OM&_nc_ht=scontent.fdad2-1.fna&oh=00_AT-X6BB6rRXcG-62iEPe7zaLOvyNkzfkGvYXWDnwjkxSyQ&oe=627611CE" width="400"></p>
