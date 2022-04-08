@@ -1,13 +1,5 @@
 <!DOCTYPE html>
- html{
-    background: url(https://demoda.vn/wp-content/uploads/2022/01/anh-vu-tru-doc-dao.jpg);
-  
-}
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+ 
 </style>
 <h1 align="center">Hi 👋, I'm Trịnh Xuân Thảo</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
