@@ -1,5 +1,5 @@
 html{
-    background-color: rgb(214, 214, 214);
+    background-color: Green;
   
 }
 *{
@@ -31,9 +31,9 @@ ul{
     list-style: none;
 }
 h1{
-    background-color: rgb(253, 36, 206);
+    background-color:white;
     text-align: center;
 } 
 marquee{
-    background-color: rgb(253, 36, 206);
+    background-color: cyan;
 }
