@@ -1,11 +1,13 @@
 html{
-    background: url(https://img5.thuthuatphanmem.vn/uploads/2021/07/16/anh-khong-gian-vu-tru-dep-khong-tuong_090533332.jpg);
+     background: url(https://images4.alphacoders.com/926/thumbbig-926968.webp);
   
 }
 *{
-    margin: 0;
-    padding: 0;
+    margin: 8px;
+    padding: 0px;
     box-sizing: border-box;
+    width: 1280 px;
+    margin: 0 auto;
 }
 header{
     height: 270px;
