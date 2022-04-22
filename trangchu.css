@@ -1,12 +1,12 @@
 html{
-     background: url(https://cdn.sforum.vn/sforum/wp-content/uploads/2021/11/2-20.jpg);
+     background: url(https://i.pinimg.com/originals/2c/84/5a/2c845a66b8ad2a8aafd288bdc16cd459.jpg);
   
 }
 *{
     margin: 8px;
     padding: 0px;
     box-sizing: border-box;
-    width: 980px;
+    width: 1280 px;
     margin: 0 auto;
 }
 .container{
